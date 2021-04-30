@@ -4,6 +4,4 @@ This site is for me putting my code.
 
 ## Python
 ### Games
-(https://github.com/redstone-scratch/code-downloads/blob/main/PythonCode/Super%20Zap%20v1.0.zip)[Super Zap] (Zip file, 2.71 MB/not terribly large)
-
-### Utilities
+[Super Zap](https://github.com/redstone-scratch/code-downloads/blob/main/PythonCode/Super%20Zap%20v1.0.zip) (Zip file, 2.71 MB/not terribly large. For the Mathstronauts SEV-A program of 2021.)
